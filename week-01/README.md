@@ -46,10 +46,11 @@ The instructor will then review the pull request and make comments should furthe
 - Answer (ilankham−stat6250): No.
 - Question (akumar30-stat6250): Do i need to use any markdwon software for this program ?
 - Answer (ilankham−stat6250): No.
-- Answer_test (kai-stat6250): THIS IS MY FIRST PULL REQUEST!
+- Answer_test (kai-stat6250): THIS IS MY FIRST PULL REQUEST ADDITION!
 
 
 [Course Structure Quiz, Problem 2]
+- Answer_test (kai-stat6250): THIS IS MY SECOND PULL REQUEST ADDITION!
 - Question (ilankham−stat6250): Is the requirement to complete 8 of 10 forum posts to allow people to "slack off" at the end of the quarter, or is it to accommodate students enrolling in the course late, or both?
 - Answer (ilankham−stat6250): Both; however, students are encouraged to complete all assignments as written, even if they have no impact on their course grade.
 - Question (cyuan10-stat6250): Are student encouraged to read and response to other students’ postings? Will there be credit given for responding to another post?
@@ -87,6 +88,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Structure Quiz, Problem 3]
 - Question (ilankham−stat6250): Is the requirement to complete 8 of 10 weekly quizzes to allow people to "slack off" at the end of the quarter, or is it to accommodate students enrolling in the course late, or both?
+- Answer_test (kai-stat6250): THIS IS MY THIRD PULL REQUEST ADDITION!
 - Question (cyuan10-stat6250): Do the weekly quizzes focuse on content from the textbook, supplementary material, videos, postings, or possibly of all the above?
 - Answer (ilankham−stat6250): Primarily the quiz problems in the course textbook, which are at the end of the each chapter, as well as SAS recipes given in Weekly Overview videos.
 - Question (kveng-stat6250): Since we only need 8 out 10 to earn the reading for depth achievement, will students who complete 10 out of the 10 weekly quizzes get some sort of extra credit?
@@ -151,7 +153,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (akumar30-stat6250): What must you do if your Horizon email address is already associated with a GitHub account?
 - Answer (akumar30-stat6250): You can change the username of the existing account. 
 
-
+- Answer_test (kai-stat6250): THIS IS MY FOURTH PULL REQUEST ADDITION!
 
 [Course Structure Quiz, Problem 5]
 - Question (ilankham−stat6250): How similar to Weekly Quiz problems will final exam problems be? In other words, if I want to best prepare for the final exam throughout the course, should I primarily focus on thoroughly understanding weekly quiz problems?
