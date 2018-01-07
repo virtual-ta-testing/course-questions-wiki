@@ -156,36 +156,7 @@ The instructor will then review the pull request and make comments should furthe
 - Answer_test (kai-stat6250): THIS IS MY FOURTH PULL REQUEST ADDITION!
 
 [Course Structure Quiz, Problem 5]
-- Question (ilankham−stat6250): How similar to Weekly Quiz problems will final exam problems be? In other words, if I want to best prepare for the final exam throughout the course, should I primarily focus on thoroughly understanding weekly quiz problems?
-- Answer (ilankham−stat6250): The best way to prepare for the Final Exam is to work through every assigned Weekly Quiz Problem and to develop an understanding of all concepts involved to the point that the problems can be thoroughly answered without consulting reference materials.
-- Question (yyan11−stat6250): How many questions in the Final Exam?
-- Answer (yyan11−stat6250): The Final Exam will tentatively consist of 65 multiple-choice, with a time limit of 110 minutes.
-- Question (cyuan10-stat6250): 110 minutes feel a rushed for 65 questions - have you had past students not finishing the final exam?
-- Answer (ilankham−stat6250): Every student with proper preparation has successfully completed the final exam.
-- Question (kveng-stat6250): How much time do we have to invest on this class daily in order to do well on the final exam? 
-- Answer (kveng-stat6250): Depend on the individual students some would take more time to learn the materials and some would take less time to learn the materials. 
-- Question (nly13-stat6250):If we can pass this final, does that mean we will be prepared enough to get the SAS credential?
-- Answer (ilankham−stat6250): Most likely, though additional review of the course textbook after the quarter ends is recommended.
-- *Question* (lwang30-stat6250) : What other goals are weekly quizzes able to serve for, except for earning the achievement ?
-- Answer (ilankham−stat6250): Learning SAS programming concepts in depth.
-* *Question* (aalshehry−stat6250): What is the format of final exam? 
-- Answer (ilankham−stat6250): Online, multiple choice.
-- Question (lzhao4−stat6250): When will the final exam available on blackboard?
-- Answer (ilankham−stat6250): Tentatively during finals week.
-- Question (aliang5−stat6250): What is the passing scores for SAS 9 credential exam? It’s similar to the passing scores for the final exam? It’s why Professor pick 70% as the passing grade for complete?
-- Answer (ilankham−stat6250): Yes.
-- Question (dlee117−stat6250): Which chapters do you need to study out of the course textbook for the final exam and what should you focus on?
-- Answer (ilankham−stat6250): All of them. Everything covered in the course textbook.
-- Question (aoneill2-stat6250): Will the final results be curved?
-- Answer (ilankham−stat6250): No.
-- *Question* (yren10-stat6250): Does other SAS text book we had in other class helps? or focus on our text book will be a better way for study?
-- Answer (ilankham−stat6250): I recommend reading as many books on SAS as possible since different authors will explain concepts in different ways, but the course textbook should be sufficient for this course.
-- Question (yzhu12-stat6250): How many problems do you have for final exam and how long is the exam? How does the exam graded?
-- Answer (yzhu12-stat6250): We have 65 multiple-choice questions and we have 110 minutes to complete it. We need to earn at least 70% of the questions to earn the building general knowledge achievement in the course. 
-- Question (mcardoso3-stat6250):  Will the final exam questions be centered more towards the first half of this course, or more towards the second half?
-- Answer (mcardoso3-stat6250): The final exam will be accumulative with questions coming from chapters 1–8, 10–17, and 19–20 of the course textbook.  Therefore, it is important to study for each part of the material equally.
-- Question (akumar30-stat6250): Is this program good for working professionals taking two more classes this quarter ?
-- Answer (ilankham−stat6250): It depends on the working professional.
+- Answer_test (kai-stat6250): THIS IS MY FIFTH PULL REQUEST ADDITION!
 
 
 
